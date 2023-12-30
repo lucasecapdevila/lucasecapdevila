@@ -1,6 +1,11 @@
 ### Hi there 👋👨‍💻
 
-![github-header-image](https://github.com/lucasecapdevila/lucasecapdevila/assets/93661757/a4931d0c-04c0-4758-ab1a-2290b918270a)
+![github-header-image](./img/github-header-image.en.png)
+
+<table align="right">
+ <tr><td><a href="README.md"><img src="./img/uk.svg" height="13">English</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="./img/españa.svg" height="13">Spanish</a></td></tr>
+</table>
 
 [![lucasecapdevila's GitHub stats](https://github-readme-stats-lucasecapdevilas-projects.vercel.app/api?username=lucasecapdevila&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
