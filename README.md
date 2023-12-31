@@ -1,10 +1,10 @@
 ## Hi there coders 👋👨‍💻
 
-![github-header-image en](https://github.com/lucasecapdevila/lucasecapdevila/assets/93661757/b12b857d-cc1e-4663-a15f-f6b4a450d5a6)
+![github-header-image-en](./images/header_en.png)
 
 <table align="right">
- <tr ><td><a href="README.md"><img src="./img/uk.svg" height="13"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="./img/españa.svg" height="13"> Spanish</a></td></tr>
+ <tr ><td><a href="README.md"><img src="./images/uk.svg" height="13"> English</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="./images/spain.svg" height="13"> Spanish</a></td></tr>
 </table>
 
 
@@ -15,7 +15,7 @@
 <hr>
 
 <!-- Hobbies/about/pronouns/fun fact and a GIF -->
-<img width="42%" alt="GIF" align="right" src="https://github.com/lucasecapdevila/lucasecapdevila/assets/93661757/5bd93307-5115-4ba5-a20d-62deeac22590">
+<img width="42%" alt="GIF" align="right" src="./images/michi.gif">
 
 
 
@@ -35,31 +35,31 @@
 ### 🛠️ Languages and tools:
 
 <div>
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- <img height="32" width="32" src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" />
- <img height="32" width="32" src="https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />
- <img height="32" width="32" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU" />
+ <img height="32" width="32" src="./images/html.png" />
+ <img height="32" width="32" src="./images/css.png" />
+ <img height="32" width="32" src="./images/bootstrap.png" />
+ <img height="32" width="32" src="./images/javascript.png" />
+ <img height="32" width="32" src="./images/react.png" />
+ <img height="32" width="32" src="./images/git.png" />
+ <img height="32" width="32" src="./images/github.png" />
+ <img height="32" width="32" src="./images/vscode.svg" />
+ <img height="32" width="32" src="./images/photoshop.svg" />
+ <img height="32" width="32" src="./images/figma.png" />
 </div>
 
 
 ### 🌱 2024 goals:
 <div>
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
- <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+ <img height="32" width="32" src="./images/angular.png" />
+ <img height="32" width="32" src="./images/vue.png" />
+ <img height="32" width="32" src="./images/tailwind.png" />
+ <img height="32" width="32" src="./images/typescript.png" />
+ <img height="32" width="32" src="./images/nodejs.png" />
+ <img height="32" width="32" src="./images/express.png" />
+ <img height="32" width="32" src="./images/mongodb.png" />
+ <img height="32" width="32" src="./images/mysql.png" />
+ <img height="32" width="32" src="./images/firebase.png" />
+ <img height="32" width="32" src="./images/php.png" />
 </div>
 <br>
 
