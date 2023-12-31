@@ -30,7 +30,7 @@
 - 🧐 Backend is next on my list.
 - 🤝 Highly willing to team work.
 - ❔ Ask me about anything, I'm happy to help !
-- ⚡ Fun fact: huge fan of history.
+- ⚡ Fun fact: huge fan of history 📚.
 
 ### 🛠️ Languages and tools:
 
