@@ -10,7 +10,7 @@
 
 ### Reproduciendo ahora en Spotify 🎧
 
-[![Spotify](https://spotify-now-playing-lucasecapdevilas-projects.vercel.app/api/spotify/?border_color=ffffff)](https://open.spotify.com/user/11145770657?si=9b11ce2603d74da1)
+[![Spotify](https://spotify-now-playing-lucasecapdevilas-projects.vercel.app/api/spotify/?border_color=1ed760)](https://open.spotify.com/user/11145770657?si=9b11ce2603d74da1)
 
 <hr>
 
